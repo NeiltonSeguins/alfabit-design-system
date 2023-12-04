@@ -15,7 +15,7 @@ const boxClassMap = {
   dark: "bg-dark",
   alert: "bg-yellow-100 text-yellow-100",
   success: "bg-green-100 text-green-100",
-  error: "bg-error-100 text-error-100",
+  error: "bg-red-100 text-error-100",
 };
 
 const Box = ({
